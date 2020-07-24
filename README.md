@@ -1,3 +1,4 @@
+### 技术😎
 <img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg" />
 <img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spring.svg" />
 <img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/oracle.svg" />
@@ -13,6 +14,6 @@
 - 正在努力补充基础知识（算法、网络、操作系统、计算机原理）。
 - 目前工作三年。
 - 喜欢探索，爱好钻研，愿意学习，乐意分享。
-- 以上是我擅长的技术，有问题可以向我咨询。qq：310834626，wechat:zr-310834626,公众号：张有路
+- 以上是我擅长的技术，有问题可以向我咨询。qq：310834626，wechat:zr-310834626,公众号：张有路。
 
 ⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
