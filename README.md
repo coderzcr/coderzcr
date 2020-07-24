@@ -1,30 +1,18 @@
-## Hi there 👋
-
-<a href="https://twitter.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/AjayKhalsa">
-  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/AjayKhalsa">
-  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.hackerrank.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.kaggle.com/ajaykhalsa">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
+<img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg" />
+<img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spring.svg" />
+<img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/oracle.svg" />
+<img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" />
+<img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" />
+<img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" />
+<img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" />
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Ajay Singh Khalsa
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+### Hi there, 欢迎来到这里，我是张有路👋
+- Java后端开发，对前端略知一二。
+- 正在努力补充基础知识（算法、网络、操作系统、计算机原理）。
+- 目前工作三年。
+- 喜欢探索，爱好钻研，愿意学习，乐意分享。
+- 以上是我擅长的技术，有问题可以向我咨询。qq：310834626，wechat:zr-310834626,公众号：张有路
 
 ⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
