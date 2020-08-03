@@ -7,7 +7,7 @@
 <img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" />
 <img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" />
 <br />
-<img align="right" alt="GIF" src="https://imgkr.cn-bj.ufileos.com/2e510fc6-ca70-4632-8566-a1f6493c2da0.gif" />
+<img align="right" alt="GIF" src="https://s1.ax1x.com/2020/08/03/adCkn0.gif" />
 
 ### Hi there, 欢迎来到这里，我是张有路👋
 - Java后端开发，对前端略知一二。
