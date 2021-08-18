@@ -1,6 +1,7 @@
 ### 技术😎
 <img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg" />
 <img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spring.svg" />
+<img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/springboot.svg" />
 <img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/oracle.svg" />
 <img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" />
 <img align="left" alt="zcr's tech" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" />
